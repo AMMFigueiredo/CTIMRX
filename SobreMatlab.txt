@@ -1,0 +1,4 @@
+CTIMRX: Caracteristicas de Texturas em Imagens Medicas de Raio-X
+
+R2016a(9.0.0341360)
+64-bit(win64)
